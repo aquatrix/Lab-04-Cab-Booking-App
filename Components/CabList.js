@@ -1,4 +1,3 @@
-// CarListScreen.js
 import React, { useState, useEffect } from 'react';
 import { View, Text, FlatList, TouchableOpacity, StyleSheet, Image } from 'react-native';
 import { createStackNavigator } from '@react-navigation/stack';
